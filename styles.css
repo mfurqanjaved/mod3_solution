@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box !important;
+}
+.para{
+  background-color: grey;
+  color: black;
+  margin:10px;
+}
+body{
+
+  padding-top: 0px;
+  padding-bottom: 20px;
+  zoom: 100% !important;
+}
